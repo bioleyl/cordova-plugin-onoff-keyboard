@@ -1,8 +1,8 @@
 {
-  "name": "cordova-plugin-scanner-u8000s",
+  "name": "cordova-plugin-onoff-keyboard",
   "version": "1.0.0",
   "cordova": {
-    "id": "cordova-plugin-scanner-u8000s",
+    "id": "cordova-plugin-onoff-keyboard",
     "platforms": [
       "android"
     ]
