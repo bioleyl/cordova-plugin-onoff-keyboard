@@ -7,7 +7,6 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
-import android.device.ScanDevice;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaInterface;
